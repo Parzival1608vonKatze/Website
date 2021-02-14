@@ -1,0 +1,135 @@
+
+    .navbar{
+      background-color:#A4691E;
+      overflow:hidden;
+      height:63px;
+      margin-top:-8px;
+      margin-left:-8px ;
+      margin-right:-8px;
+      opacity:0.8;
+    }
+    
+    .navbar a{
+      float:left;
+      display:block;
+      color: #47350b;
+      text-align:center;
+      padding:14px 16px;
+      text-decoration:none;
+      font-size:17px;
+    }
+    
+    .navbar ul{
+      list-style:none;
+      margin:8px 0 0 0;
+    }
+    
+    .navbar a:hover{
+      background-color:#89691E;
+      color:#000;
+    }
+    
+    .side-nav{
+      height:100%;
+      width:0;
+      position:fixed;
+      z-index:1;
+      top:0;
+      left:0;
+      background-color:#89691E;
+      overflow-x:hidden;
+      padding-top:60px;
+      transition:0.5s;
+    }
+    
+    .side-nav a{
+      padding:10px 10px 10px 30px;
+      text-decoration:none;
+      font-size:22px;
+      color:#47350b;
+      display:block;
+      transition:0.3s;  
+    }
+    
+    .side-nav a:hover{
+      color:rgb(0, 0, 0);
+    }
+    
+    .side-nav .btn-close{
+      position:absolute;
+      top:0;
+      right:22px;
+      font-size:36px;
+      margin: 0px;
+   
+    }
+    
+    #main{
+      transition:margin-left 0.5s;
+      padding:20px;
+      overflow:hidden;
+      width:100%;
+      margin: 0px;
+    }
+  body {
+    background-image: url(/pics/Synthwave-Neon-80s-Background-Marmoset-Revamp.jpg);
+    background-color: #89691E;
+    font-family: Ubuntu,'Ubuntu', sans-serif;
+    margin: 0px;
+  }
+div.indexsocial{
+  border-color: rgb(255, 0, 0);
+  border-radius: 12%;
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+
+div.plsuslandscapemode {
+font-size: 40px;
+position: relative;
+top: 30%;
+left: 30%;
+margin: 0px;
+}
+ 
+div.navbar2 {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0px;
+}
+h1.zeitqm {
+  color:#fff;
+  background-color: #523c0b;
+font-family: 'Roboto', sans-serif;
+padding: 30px;
+margin: 0px;
+opacity:0.8;
+}
+div.navbar2 iframe  {
+  margin: 10px;
+  border: 2px transparent;
+  border-radius: 2%
+}
+.navbar2 {
+background-color:rgb(70, 70, 70);
+opacity:0.97;
+}
+.Emubox div.ka {
+  border: #000 2px solid;
+  padding: 10px;
+  margin: 0;
+  color: #fff;
+  background-color: #000;
+  opacity:0.8;
+}
+iframe {
+  opacity:0.8;
+}
+
+div.navbar2 iframe  {
+  opacity: 0.97;
+}
+/* ubunt-font */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
